@@ -1,4 +1,4 @@
-,id,bim360_account_id,name,trade,category,address_line1,address_line2,city,state_or_province,postal_code,country,phone,website_url,description,erp_id,tax_id,status,created_at,project_size,user_size,custom_properties
+,default_company_id,bim360_account_id,name,trade,category,address_line1,address_line2,city,state_or_province,postal_code,country,phone,website_url,description,erp_id,tax_id,status,created_at,project_size,user_size,custom_properties
 0,210b3a61-4067-46f4-bcec-b7a2f32cf4a0,49df69ab-c266-4d49-951c-031b16f7a31f,removed at 2019-09-04 18:25:34 UTC ad811597-a356-40a3-8e27-e3d141034953,,,,,,,,US,,,,,,deleted,2019-07-11 20:47:39.015768,,,
 1,9178147b-ae2c-4a4f-814e-c5fe6b64f9d1,49df69ab-c266-4d49-951c-031b16f7a31f,Washington University,,Owner,,,,,,US,,,,,,,2015-08-27 02:31:08.786068,4.0,1.0,
 2,02a23d7c-69f1-47a6-9a59-cf968b5cca32,49df69ab-c266-4d49-951c-031b16f7a31f,Ultra,,,,,,,,US,,,,,,,2019-06-24 13:54:17.880768,,,
